@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Pangeran Juhrifar Jafar</h2>
 
-![My card name](https://cardivo.vercel.app/api?name=Pangeran&description=Hi,%20I'm%20an%20Information%20Systems%20student%20and%20Data%20Enthusiast.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/143472184?v=4&backgroundColor=%230D1117&instagram=yuxyn02&pattern=leaf&colorPattern=%23252633&fontColor=%23FFFFFF)
+![My card name](https://cardivo.vercel.app/api?name=Pangeran&description=Hi,%20I'm%20an%20Information%20Systems%20student%20and%20Data%20Enthusiast.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/143472184?v=4&backgroundColor=%230D1117&instagram=yuxyn02&pattern=leaf&colorPattern=%23252633&fontColor=%23FFFFFF&iconColor=%2358A6FF)
 
 
 <br/>
